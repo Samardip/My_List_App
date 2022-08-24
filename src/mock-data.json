@@ -1,0 +1,44 @@
+[
+    {
+        "sno": 1,
+      "name": "Jenny Chan",
+      "education": "Uneducated1",
+      "gender": "Male",
+      "desc": "GG well played"
+    },
+    {
+        "sno": 2,
+        "name": "Jessica warren",
+      "education": "Uneducated2",
+      "gender": "Male",
+      "desc": "it was a great work"
+    },
+    {
+      "sno": 3,
+      "name": "Tony Frank",
+      "education": "Uneducated3",
+      "gender": "Female",
+      "desc": "it was not a great work"
+    },
+    {
+        "sno": 4,
+        "name": "Jeremy Clark",
+      "education": "Uneducated4",
+      "gender": "Female",
+      "desc": "it was wonderfull"
+    },
+    {
+        "sno": 5,
+        "name": "Raymond Edwards",
+      "education": "Uneducated5",
+      "gender": "Male",
+      "desc": "here comes the party"
+    },
+    {
+        "sno": 6,
+        "name": "Edwards",
+      "education": "Uneducated6",
+      "gender": "Female",
+      "desc": "Hello there, :)"
+    }
+  ]
